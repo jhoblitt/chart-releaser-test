@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  foo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-26T17:17:34.830190073Z"
+    description: A Helm chart for Kubernetes
+    digest: 75f9cf233dd077f9e214e9c6068b2b7fe96f626c762ed397afc31c9ae822c51e
+    name: foo
+    type: application
+    urls:
+    - https://github.com/jhoblitt/chart-releaser-test/releases/download/foo-0.2.0/foo-0.2.0.tgz
+    version: 0.2.0
+generated: "2024-04-26T17:17:34.830199221Z"
